@@ -1,0 +1,14 @@
+layout_spectrum: 0.6396248
+typography_spectrum: 0.2733695
+color:
+  saturation: 0.9839855
+  lightness: 0.8714175
+  brandStrength: 0.1765711
+  rhythmicContrast: 0.8518327
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Scrapbook
